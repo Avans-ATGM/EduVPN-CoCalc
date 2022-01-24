@@ -17,7 +17,7 @@ It can also be used as a regular VPN to protect you for unsafe networks, like in
 
 3.) Open EduVPN. ![image](https://user-images.githubusercontent.com/42538229/150759107-0d050cfc-2c06-46c8-b158-0cf234a3fc03.png)
 
-4.) Search for your institute:(For this tutorials we need Institute Access)<br>
+4.) Search for "Avans Hogeschool":(For this tutorials we need Institute Access)<br>
 ![image](https://user-images.githubusercontent.com/42538229/150759271-16e4aa6e-1a54-4266-86b2-f080c01e726f.png)
 
 5.) The next screen is the screen you'll see when opening EduVPN (If you've done both Institutional access and Safe Internet access). <br> Now select the one you need. (We need "Instituut Toegang")<br>
