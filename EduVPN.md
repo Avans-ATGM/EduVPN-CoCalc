@@ -29,5 +29,4 @@ It can also be used as a regular VPN to protect you for unsafe networks, like in
 7.) If you see the next screen your VPN should work.<br>
 ![image](https://user-images.githubusercontent.com/42538229/150763627-0c69a669-37b4-4b72-a8ad-3e96342d0278.png)
 
-
-
+If you need Cocalc (like if you're doing the bioinformatic minor) [continue with that tutorial](./CoCalc.md).
