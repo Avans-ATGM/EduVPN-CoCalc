@@ -20,6 +20,10 @@ _Or it might be shared in brightspace_<br>
 
 Now you can select multiple options in the top bar:<br>
 ![image](https://user-images.githubusercontent.com/42538229/150770088-ecc89e0d-a231-453a-bf4e-1da4e2791f05.png)<br>
-Here you 
+Here you can:
+- Go to your Project, where you can start of join one.
+- See some information about CoCalc and get to its documentation page.
+- Change something in your account settings, like enable "Dark Mode", change color schemes and many more.
 
-4.) Now you can 
+4.) Under Projects you'll see something like this:<br>
+

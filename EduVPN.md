@@ -20,7 +20,7 @@ It can also be used as a regular VPN to protect you for unsafe networks, like in
 4.) Search for your institute:(For this tutorials we need Institute Access)<br>
 ![image](https://user-images.githubusercontent.com/42538229/150759271-16e4aa6e-1a54-4266-86b2-f080c01e726f.png)
 
-5.) The next screen is the screen you'll see when opening EduVPN (If you've done both Institutional access and Safe Internet access). Now select the one you need. (We need "Instituut Toegang")<br>
+5.) The next screen is the screen you'll see when opening EduVPN (If you've done both Institutional access and Safe Internet access). <br> Now select the one you need. (We need "Instituut Toegang")<br>
 ![image](https://user-images.githubusercontent.com/42538229/150763406-0732dc1a-59af-4214-9b1e-9398fcfe0388.png)
 
 6.) Now a website will pop-up and you'll have to accept this.<br>
