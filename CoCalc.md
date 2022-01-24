@@ -59,4 +59,12 @@ Now try to start a jupyter notebook with python3 (Ubuntu Linux) ![image](https:/
 Try to recreate this: 
 ![image](https://user-images.githubusercontent.com/42538229/150821547-2c7765bb-b1a6-4fa3-94f8-4df370fb4505.png)
 
-Now you should know some of the basics!
+---
+
+### Now you should know some of the basics!
+
+--- 
+
+```
+Maybe add part for assignment??
+```
