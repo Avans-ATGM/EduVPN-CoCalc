@@ -18,7 +18,8 @@ _As a safety precausion, you'll only be able to access Cocalc with a registratio
 _Or it might be shared in brightspace_<br>
 ![image](https://user-images.githubusercontent.com/42538229/150769506-6fd57de5-486d-48bc-befb-11034ae8e260.png)
 
-Now you can select multiple options in the top bar:
-![image](https://user-images.githubusercontent.com/42538229/150770088-ecc89e0d-a231-453a-bf4e-1da4e2791f05.png)
+Now you can select multiple options in the top bar:<br>
+![image](https://user-images.githubusercontent.com/42538229/150770088-ecc89e0d-a231-453a-bf4e-1da4e2791f05.png)<br>
+Here you 
 
 4.) Now you can 
