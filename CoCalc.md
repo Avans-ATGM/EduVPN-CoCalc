@@ -20,7 +20,11 @@ _Now you should see this page_<br>
 ![image](https://user-images.githubusercontent.com/42538229/150768202-0262c31d-6934-4b97-ba19-db79db0c0f7d.png)<br>
 
 3.) Now Sign In if you already have an account, otherwise use the Sign Up button to create an account (Here you'll have to use your school email.<br>
-_As a safety precausion, you'll only be able to access Cocalc with a registration token, this can be acquired by one of the bioinf TOA's_<br>
+_As a safety precausion, you'll only be able to access Cocalc with a registration token_<br>
+```
+Registration code:
+8aYCEJb5Q7KJZ1WQ
+```
 ![image](https://user-images.githubusercontent.com/42538229/150769506-6fd57de5-486d-48bc-befb-11034ae8e260.png)
 
 Now you can select multiple options in the top bar:<br>
