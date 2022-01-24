@@ -1,7 +1,7 @@
 # EduVPN-CoCalc
 
 EduVPN:
-[Link to EduVPN set-up](./EduVPN.md)
+[Link to EduVPN setup](./EduVPN.md)
 
 CoCalc:
-[Link to CoCalc set-up](./CoCalc.md)
+[Link to CoCalc setup](./CoCalc.md)
