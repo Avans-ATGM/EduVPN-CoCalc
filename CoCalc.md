@@ -53,7 +53,10 @@ Step 1 is neseccary for step 2,3 or 4.<br>
 3. Or enter a terminal command en press play button. (Like "mkdir Foldername" or "touch readme.md)
 4. Or click on upload and select a local file to upload.
 
-Now try to start a jupyter notebook with python3 (Ubuntu Linux) ![image](https://user-images.githubusercontent.com/42538229/150816565-869c9392-f0aa-4725-bb1c-9ecce33b078f.png)
-<br>
+Now try to start a jupyter notebook with python3 (Ubuntu Linux) ![image](https://user-images.githubusercontent.com/42538229/150816565-869c9392-f0aa-4725-bb1c-9ecce33b078f.png) using the link below.<br> 
 [Information Jupyter Notebook](https://doc.cocalc.com/jupyter.html)
 
+Try to recreate this: 
+![image](https://user-images.githubusercontent.com/42538229/150821547-2c7765bb-b1a6-4fa3-94f8-4df370fb4505.png)
+
+Now you should know some of the basics!
